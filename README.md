@@ -13,8 +13,6 @@ The solution satisfies the requirements for a modular, extensible AI project arc
 
 ```
 Actvity 3 Full Solution/
-├── .idea/                    # IDE-specific files
-├── data/                     # Email datasets
 ├── events/                   # Event-driven architecture components
 │   ├── __init__.py
 │   ├── EventBus.py           # Central event management system
@@ -29,7 +27,6 @@ Actvity 3 Full Solution/
 │   ├── __init__.py
 │   ├── data_model.py         # Encapsulates data for consistent access
 │   └── modelling.py          # Handles model selection and prediction
-├── __pycache__/              # Python bytecode cache
 ├── Config.py                 # Configuration settings
 ├── embeddings.py             # Text vectorization functions
 ├── main.py                   # Entry point for application
