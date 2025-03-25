@@ -154,7 +154,7 @@ The system uses these events to coordinate processing:
 git clone https://github.com/soumadhav/Engineering-and-Evaluating
 
 # Navigate to project directory
-cd "Actvity 3 Full Solution"
+cd "Project directory"
 
 # Install required packages
 pip install -r requirements.txt  # If provided
